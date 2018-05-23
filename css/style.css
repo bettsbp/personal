@@ -1,0 +1,27 @@
+h2, h3, h1 {
+  text-align: center;
+}
+.main {
+  background-color: grey;
+}
+nav {
+  background-color: skyblue;
+  text-align: center;
+}
+body {
+  background-color: grey;
+  color: white;
+  background-image: image("img/city.jpg");
+}
+a {
+  color: white;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: lime;
+}
+a:visited {
+  color:purple;
+}
