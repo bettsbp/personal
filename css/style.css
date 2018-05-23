@@ -25,3 +25,17 @@ a:active {
 a:visited {
   color:purple;
 }
+.important {
+  color: red;
+  font-weight: bolder;
+}
+p {
+  font-size: 28px;
+  width: 75%;
+  height: 75%;
+}
+
+.small {
+  font-size: 24px;
+  font-style: italic;
+}
