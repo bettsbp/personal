@@ -1,6 +1,10 @@
 body {
   background-image: url("../img/smoke.jpg");
   background-repeat: no-repeat;
+<<<<<<< HEAD
+=======
+  background-size: cover;
+>>>>>>> gh-pages
   background-color: black;
   background-position: center;
   background-size: cover;
@@ -24,10 +28,9 @@ a:hover {
   margin: 25px;
   padding: 25px;
 }
-.main p {
+.main {
   font-size: 25px;
   font-style: italic;
-  font-weight: 100;
 }
 .column {
   float: left;
