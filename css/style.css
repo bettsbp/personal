@@ -1,7 +1,32 @@
 body {
-  background-image: image("img/smoke.jpg");
-  background-repeat: no-repeat;
+  background-image: url("../img/smoke.jpg");
+  background-repeat: round;
   background-color: black;
+  background-position: center;
   color: rgba(255, 255, 255, .75);
   font-family: verdana;
+}
+.main {
+  text-align: center;
+}
+.main p {
+  font-size: 25px;
+  font-style: italic;
+  font-weight: 100;
+}
+.column {
+  float: left;
+  width: 50%;
+}
+.about {
+  text-align: center;
+}
+.contact {
+  text-align: center;
+}
+footer {
+  text-align: center;
+}
+hr {
+  margin: 25px;
 }
