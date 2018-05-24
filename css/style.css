@@ -1,5 +1,5 @@
 body {
-  background-image: url("img/smoke.jpg");
+  background-image: image("img/smoke.jpg");
   background-repeat: no-repeat;
   background-color: black;
   color: rgba(255, 255, 255, .75);
